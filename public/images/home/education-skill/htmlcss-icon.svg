@@ -1,0 +1,19 @@
+<svg width="520" height="260" viewBox="0 0 520 260" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- HTML5 ICON -->
+  <g transform="translate(0, 0) scale(0.5)">
+    <path fill="#E44D26" d="M71 460L30 0h451l-41 460-184 52"/>
+    <path fill="#F16529" d="M256 480l149-41 35-394H256"/>
+    <path fill="#EBEBEB" d="M256 208H154l3 36h99v-36zm0-74H148l3 36h105v-36zm0 192l-90-24-6-66h-39l9 102 126 35v-47z"/>
+    <path fill="#fff" d="M256 208v36h96l-9 102-87 24v47l126-35 17-194H256zm0-110v36h111l3-36H256z"/>
+  </g>
+
+  <!-- CSS3 ICON -->
+  <g transform="translate(260, 0) scale(0.5)">
+    <path fill="#1572B6" d="M71 460L30 0h451l-41 460-184 52"/>
+    <path fill="#33A9DC" d="M256 480l149-41 35-394H256"/>
+    <path fill="#EBEBEB" d="M256 208H154l3 36h99v-36zm0-74H148l3 36h105v-36zm0 192l-90-24-6-66h-39l9 102 126 35v-47z"/>
+    <path fill="#fff" d="M256 208v36h96l-9 102-87 24v47l126-35 17-194H256zm0-110v36h111l3-36H256z"/>
+  </g>
+
+</svg>
