@@ -6,7 +6,7 @@ import HeroSection from "./components/home/hero-section";
 import ContactBar from "./components/home/hero-section/contact-bar";
 import LatestWork from "./components/home/latest-work";
 
-const page = () => {
+export default function Page() {
   return (
     <>
       <main>
@@ -20,6 +20,4 @@ const page = () => {
       </main>
     </>
   );
-};
-
-export default page;
+}
